@@ -1,7 +1,7 @@
 {
   "name": "wd-selenium-hooks",
   "description": "Webdriver configuration hooks for starting and stopping selenium standalone server with PhantomJS.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/node-wd-selenium-hooks/issues"
