@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "phantomjs-bin": "^1.0.1",
-    "selenium-standalone": "^4.7.0"
+    "selenium-standalone": "^5.11.1"
   },
   "devDependencies": {
     "fixpack": "^2.2.0",
