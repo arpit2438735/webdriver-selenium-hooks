@@ -1,10 +1,10 @@
 {
-  "name": "wd-selenium-hooks",
+  "name": "webdriver-selenium-hooks",
   "description": "Webdriver configuration hooks for starting and stopping selenium standalone server with PhantomJS.",
   "version": "0.1.0",
-  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "author": "Arpit Srivastava <arpit2438735@gmail.com>",
   "bugs": {
-    "url": "https://github.com/wilmoore/node-wd-selenium-hooks/issues"
+    "url": "https://github.com/arpit2438735/webdriver-selenium-hooks/issues"
   },
   "dependencies": {
     "phantomjs-bin": "^1.0.1",
@@ -20,7 +20,7 @@
     "tape": "^4.0.0",
     "tape-catch": "^1.0.4"
   },
-  "homepage": "https://github.com/wilmoore/node-wd-selenium-hooks",
+  "homepage": "https://github.com/arpit2438735/webdriver-selenium-hooks",
   "keywords": [
     "e2e",
     "functional",
@@ -38,7 +38,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/wilmoore/node-wd-selenium-hooks"
+    "url": "https://github.com/arpit2438735/webdriver-selenium-hooks"
   },
   "scripts": {
     "authors": "git shortlog -nes | tr -s ' ' | cut -f2- > authors",
