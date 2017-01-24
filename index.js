@@ -17,6 +17,8 @@ var startOptions = {
     stdio: 'inherit'
   },
 
+  javaArgs: [ '-Djava.util.logging.config.file=' ],
+
   seleniumArgs: [
     format('-Dphantomjs.binary.path=%s', phantomJsBin.path)
   ]
