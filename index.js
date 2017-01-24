@@ -14,7 +14,7 @@ var selenium = require('selenium-standalone')
 
 var startOptions = {
   spawnOptions: {
-    stdio: 'inherit'
+    stdio: 'ignore'
   },
 
   javaArgs: [ '-Djava.util.logging.config.file=' ],
