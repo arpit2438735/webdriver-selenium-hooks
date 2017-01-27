@@ -1,4 +1,4 @@
-# wd-selenium-hooks
+# webdriver-selenium-hooks
 > Webdriver configuration hooks for starting and stopping selenium standalone server with PhantomJS.
 
 [![Build Status](http://img.shields.io/travis/wilmoore/node-wd-selenium-hooks.svg)](https://travis-ci.org/wilmoore/node-wd-selenium-hooks) [![Code Climate](https://codeclimate.com/github/wilmoore/node-wd-selenium-hooks/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/node-wd-selenium-hooks) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
@@ -8,6 +8,10 @@ npm install wd-selenium-hooks --save-dev
 ```
 
 > You can also [download the files manually](https://github.com/wilmoore/node-wd-selenium-hooks/releases).
+
+## Copy of node-wd-selenium-hooks
+1. Because I or no one can't fork it.
+2. There is no development for a long time.
 
 ###### npm stats
 
